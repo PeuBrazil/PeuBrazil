@@ -1,4 +1,4 @@
-# Oi, me chamo Pedro 👋
+# Olá, me chamo João Pedro 👋
 
 ### Sobre mim
 
@@ -7,13 +7,13 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
+🎓 Sou formado em [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
 <!--👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual] -->
 
 🔎 Também sou curioso sobre Jogos, Séries, Mangás e Música
 
-✒️ Eu gosto de no tempo livre me exercitar e buscar notícias sobre o mundo da computação
+✒️ Eu gosto de no tempo livre ler, jogar e buscar notícias sobre o mundo
 
 <!--📚 Lendo: [Livro que está lendo atualmente] -->
 
