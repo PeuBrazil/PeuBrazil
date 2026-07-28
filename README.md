@@ -18,6 +18,10 @@
 
 **Tecnologias e Ferramentas**
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-%23F1F5F9.svg?style=for-the-badge&logo=filament&logoColor=%23E11D48)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,11 +36,21 @@
 
 ### Eu estou estudando... 🧩
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.NET&logoColor=white)
+
+### Arquitetura e Boas Práticas ⚙️
+
+![MVC](https://img.shields.io/badge/MVC-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23333333.svg?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23000000.svg?style=for-the-badge&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%2325C2A0.svg?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-333333?style=for-the-badge)
 
 ### Cursos realizados 🤓
 
