@@ -54,7 +54,7 @@
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23333333.svg?style=for-the-badge&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%2325C2A0.svg?style=for-the-badge&logoColor=white)
-![API REST](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=postman&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-333333?style=for-the-badge)
 
 ### Cursos realizados 🤓
